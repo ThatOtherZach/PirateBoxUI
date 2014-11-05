@@ -1,3 +1,6 @@
+
+/* Tree Hugger CSS for PirateBox Project - Edits by TXTCLA55 */
+
 * {
   overflow: auto;
   -webkit-box-sizing: border-box;
@@ -35,7 +38,7 @@ body {
 }
 
 h1 {
-  font-size: 1.6em;
+  font-size: 1em;
   font-weight: bold;
   line-height: auto;
   margin: 0;
@@ -44,13 +47,6 @@ h1 {
 h2 {
   font-size: 1.3em;
   font-weight: bold;
-  line-height: auto;
-  margin: 0 0 0.25em;
-}
-
-small {
-  font-size: 0.8em;
-  color: #767f7e;
   line-height: auto;
   margin: 0 0 0.25em;
 }
@@ -70,20 +66,16 @@ p {
 }
 
 a {
-  color: #ad000b;
+  color: #758918;
   text-decoration: none;
 }
 
 a:hover {
-  color: #4b5154;
+  text-decoration: underline;
 }
 
 .current {
-  color: #ffffff;
-}
-
-.current:hover {
-  color: #ffffff;
+  color: white;
 }
 
 #top-nav a {
@@ -104,7 +96,7 @@ label {
 }
 
 footer {
-  color: #ffffff;
+  color: #e7e9ea;
 }
 
 .message date {
@@ -135,17 +127,17 @@ footer {
   color: #ff8040;
 }
 
-@media screen and (min-width: 801px) {
-  .message data {
-    font-size: 1em;
-  }
-}
 body {
-  background: #e6e3df;
+  background: #CFB590;
+  background-image: linear-gradient(90deg, rgba(255,255,255,.07) 50%, transparent 50%),
+  linear-gradient(90deg, rgba(255,255,255,.13) 50%, transparent 50%),
+  linear-gradient(90deg, transparent 50%, rgba(255,255,255,.17) 50%),
+  linear-gradient(90deg, transparent 50%, rgba(255,255,255,.19) 50%);
+  background-size: 13px, 29px, 37px, 53px;
 }
 
 header, footer {
-  background: #000000;
+  background: #564334;
 }
 header img, footer img {
   vertical-align: bottom;
@@ -185,7 +177,6 @@ header img, footer img {
 
 #thanks {
   float: right;
-  margin: 0;
 }
 
 #upload iframe {
@@ -195,11 +186,12 @@ header img, footer img {
 }
 
 #shoutbox {
+  background-color: #F5DBB9;
+  background-size: 13px, 29px, 37px, 53px;
   height: 350px;
   overflow: auto;
   width: 100%;
-  background-color: #e6e3df;
-  border: 1px solid #e6e3df;
+  border: 0px solid #979ea1;
   border-radius: 3px;
   margin: 0 0 1em;
   padding: 0.5em;
@@ -257,43 +249,33 @@ input[type=radio] {
 }
 
 .button {
-  background: #ad000b;
+  background: #758918;
   border: 0;
   color: white;
-  -webkit-box-shadow: #790008 0px -3px 0px inset;
-  -moz-box-shadow: #790008 0px -3px 0px inset;
-  box-shadow: #790008 0px -3px 0px inset;
+  margin: 0;
 }
 
 .button:active {
-  background: #7c8589;
-  color: #cccccc;
-  -webkit-box-shadow: #4b5154 0px -3px 0px inset;
-  -moz-box-shadow: #4b5154 0px -3px 0px inset;
-  box-shadow: #4b5154 0px -3px 0px inset;
-}
-
-.button:hover {
-  background: #7c8589;
-  color: #ffffff;
-  -webkit-box-shadow: #4b5154 0px -3px 0px inset;
-  -moz-box-shadow: #4b5154 0px -3px 0px inset;
-  box-shadow: #4b5154 0px -3px 0px inset;
+  background: #9E9A41;
+  color: #564334;
+  -webkit-box-shadow: #564334 0px -3px 0px inset;
+  -moz-box-shadow: #564334 0px -3px 0px inset;
+  box-shadow: #564334 0px -3px 0px inset;
 }
 
 .card {
-  background: #ffffff;
+  background: white;
   border-radius: 3px;
   -webkit-box-shadow: #979ea1 0px 3px 0px;
   -moz-box-shadow: #979ea1 0px 3px 0px;
   box-shadow: #979ea1 0px 3px 0px;
   margin: 0 0 1em;
-  padding: 0.5em;
+  padding: 1em;
 }
 
 .container {
   height: 100%;
-  padding: .5em;
+  padding: 1em;
   width: 100%;
 }
 
@@ -368,14 +350,9 @@ input[type=radio] {
     display: none;
   }
 
-  .card {
-    padding: 1em;
-  }
-
   .container {
     margin: 0 auto;
     max-width: 1280px;
-    padding: 1em;
     width: 90%;
   }
 

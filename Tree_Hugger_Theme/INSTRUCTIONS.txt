@@ -1,15 +1,14 @@
-PirateBoxUI
-===========
-
-A new look for the PirateBox Project. Simply SSH into your box and copy this file over, replacing your current style.css file. 
-
-A demo of the theme as it stands today can be seen here:
-https://www.youtube.com/watch?v=gUDW2EKhOrQ
-
-This is a work in progress, more themes might be available at a later date.
+Tree Hugger CSS for PirateBox Project by TXTCLA55 
 
 
--- Install Instructions --
+-- Colors Used --
+	
+	Fine Pine: #F5DBB9
+	Olive: #758918
+	Old Oak Tree: #564334
+
+
+--Install Instructions--
 
 1. Using SSH log into your PirateBox and navigate to your "www" folder.
 

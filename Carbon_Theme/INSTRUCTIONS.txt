@@ -1,12 +1,13 @@
-PirateBoxUI
-===========
+Carbon CSS for PirateBox Project by TXTCLA55 
 
-A new look for the PirateBox Project. Simply SSH into your box and copy this file over, replacing your current style.css file. 
 
-A demo of the theme as it stands today can be seen here:
-https://www.youtube.com/watch?v=gUDW2EKhOrQ
-
-This is a work in progress, more themes might be available at a later date.
+-- Colors Used --
+	
+	Mother Wolf: #04436E
+	Dark Water: #072D3A
+	Sheeps Wool: #BABBBD
+	Midnight: #202528
+	Light Afteroon: #0F699B
 
 
 -- Install Instructions --

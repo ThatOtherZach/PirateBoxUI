@@ -1,12 +1,12 @@
-PirateBoxUI
-===========
+Azure CSS for PirateBox Project by TXTCLA55 
 
-A new look for the PirateBox Project. Simply SSH into your box and copy this file over, replacing your current style.css file. 
 
-A demo of the theme as it stands today can be seen here:
-https://www.youtube.com/watch?v=gUDW2EKhOrQ
-
-This is a work in progress, more themes might be available at a later date.
+-- Colors Used --
+	
+	Purple: #8E00EE
+	Dark Purple: #221d30
+	Light Purple: #8b0ee0
+	Brushed Steel: #DDD
 
 
 -- Install Instructions --
