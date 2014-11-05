@@ -9,28 +9,20 @@ https://www.youtube.com/watch?v=gUDW2EKhOrQ
 This is a work in progress, more themes might be available at a later date.
 
 
--- Themes (So far) --
+<h5>Themes (So far)</h5>
 
-Azure http://i.imgur.com/94goqsT.png
-Carbon: http://i.imgur.com/r5Jl1cF.png
-Pirates Smile: http://i.imgur.com/UcapyLO.png
-Tree Hugger: http://i.imgur.com/xFyUXF6.png
+Azure http://i.imgur.com/94goqsT.png<br>
+Carbon: http://i.imgur.com/r5Jl1cF.png<br>
+Pirates Smile: http://i.imgur.com/UcapyLO.png<br>
+Tree Hugger: http://i.imgur.com/xFyUXF6.png<br>
 
 
--- Install Instructions --
+<h5>Install Instructions</h5>
 
-1. Using SSH log into your PirateBox and navigate to your "www" folder.
-
-2. Remove the current "style.css" file using this command:
-	
-	rm style.css
-
-3. Check that the file has been deleted from the PirateBox. Then copy over the "style.css" from this folder using this command:
-
-	scp root@b:/path/to/NEW-STYLE.CSS /path/to/WWW-FOLDER
-
-3.1. Remember that "NEW-STYLE.CSS" is the style you just downloaded and "WWW-FOLDER" is where the old style.css was.
-
-4. Once copied check the file is in place, then try to refresh or open the PirateBox on your browser, the new theme should now be in place.
-
-5. Sit back and enjoy the view.
+<ol>
+<li>Using SSH, log into your PirateBox and navigate to your "www" folder.</li>
+<li>Remove the current "style.css" file using the command:<br><code>rm style.css</code></li>
+<li>Check that the file has been deleted from the PirateBox. Then copy over the "style.css" from this folder using the command:<br><code>scp root@b:/path/to/NEW-STYLE.CSS /path/to/WWW-FOLDER</code><br><br><i><b>Remember<b> that "NEW-STYLE.CSS" is the style you just downloaded and "WWW-FOLDER" is where the old style.css was.</i></li>
+<li>Once copied check the file is in place, then try to refresh or open the PirateBox on your browser, the new theme should now be in place.</li>
+<li>Sit back and enjoy the view.</li>
+</ol>
