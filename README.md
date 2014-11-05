@@ -9,6 +9,14 @@ https://www.youtube.com/watch?v=gUDW2EKhOrQ
 This is a work in progress, more themes might be available at a later date.
 
 
+-- Themes (So far) --
+
+Azure http://i.imgur.com/94goqsT.png
+Carbon: http://i.imgur.com/r5Jl1cF.png
+Pirates Smile: http://i.imgur.com/UcapyLO.png
+Tree Hugger: http://i.imgur.com/xFyUXF6.png
+
+
 -- Install Instructions --
 
 1. Using SSH log into your PirateBox and navigate to your "www" folder.
