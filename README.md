@@ -22,7 +22,7 @@ Tree Hugger: http://i.imgur.com/xFyUXF6.png<br>
 <ol>
 <li>Using SSH, log into your PirateBox and navigate to your "www" folder.</li>
 <li>Remove the current "style.css" file using the command:<br><code>rm style.css</code></li>
-<li>Check that the file has been deleted from the PirateBox. Then copy over the "style.css" from this folder using the command:<br><code>scp root@b:/path/to/NEW-STYLE.CSS /path/to/WWW-FOLDER</code><br><br><i><b>Remember<b> that "NEW-STYLE.CSS" is the style you just downloaded and "WWW-FOLDER" is where the old style.css was.</i></li>
+<li>Check that the file has been deleted from the PirateBox. Then copy over the "style.css" from this folder using the command:<br><code>scp root@b:/path/to/NEW-STYLE.CSS /path/to/WWW-FOLDER</code><br><br><i><b>Remember</b> that "NEW-STYLE.CSS" is the style you just downloaded and "WWW-FOLDER" is where the old style.css was.</i></li>
 <li>Once copied check the file is in place, then try to refresh or open the PirateBox on your browser, the new theme should now be in place.</li>
 <li>Sit back and enjoy the view.</li>
 </ol>
