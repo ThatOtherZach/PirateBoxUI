@@ -1,4 +1,4 @@
-Pirate's Smile CSS for PirateBox Project by TXTCLA55 
+Pirate's Smile CSS for PirateBox
 
 
 -- Colors Used --
