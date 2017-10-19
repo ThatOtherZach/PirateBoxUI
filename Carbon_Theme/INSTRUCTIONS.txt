@@ -1,4 +1,4 @@
-Carbon CSS for PirateBox Project by TXTCLA55 
+Carbon CSS for PirateBox 
 
 
 -- Colors Used --
