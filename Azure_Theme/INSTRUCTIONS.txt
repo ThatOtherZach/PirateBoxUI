@@ -1,5 +1,4 @@
-Azure CSS for PirateBox Project by TXTCLA55 
-
+Azure CSS for PirateBox
 
 -- Colors Used --
 	
