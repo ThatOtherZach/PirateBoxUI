@@ -1,4 +1,4 @@
-Tree Hugger CSS for PirateBox Project by TXTCLA55 
+Tree Hugger CSS for PirateBox 
 
 
 -- Colors Used --
